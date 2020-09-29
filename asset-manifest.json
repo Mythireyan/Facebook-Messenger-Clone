@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Facebook-Messenger-clone/static/css/main.8e80bdfb.chunk.css",
+    "main.js": "/Facebook-Messenger-clone/static/js/main.320ea3f7.chunk.js",
+    "main.js.map": "/Facebook-Messenger-clone/static/js/main.320ea3f7.chunk.js.map",
+    "runtime-main.js": "/Facebook-Messenger-clone/static/js/runtime-main.9308bf74.js",
+    "runtime-main.js.map": "/Facebook-Messenger-clone/static/js/runtime-main.9308bf74.js.map",
+    "static/js/2.0308297f.chunk.js": "/Facebook-Messenger-clone/static/js/2.0308297f.chunk.js",
+    "static/js/2.0308297f.chunk.js.map": "/Facebook-Messenger-clone/static/js/2.0308297f.chunk.js.map",
+    "index.html": "/Facebook-Messenger-clone/index.html",
+    "precache-manifest.dbf8181be919a7f008d843bd5fee7fec.js": "/Facebook-Messenger-clone/precache-manifest.dbf8181be919a7f008d843bd5fee7fec.js",
+    "service-worker.js": "/Facebook-Messenger-clone/service-worker.js",
+    "static/css/main.8e80bdfb.chunk.css.map": "/Facebook-Messenger-clone/static/css/main.8e80bdfb.chunk.css.map",
+    "static/js/2.0308297f.chunk.js.LICENSE.txt": "/Facebook-Messenger-clone/static/js/2.0308297f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9308bf74.js",
+    "static/js/2.0308297f.chunk.js",
+    "static/css/main.8e80bdfb.chunk.css",
+    "static/js/main.320ea3f7.chunk.js"
+  ]
+}
